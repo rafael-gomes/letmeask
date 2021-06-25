@@ -41,7 +41,7 @@ export function Room() {
         name: user.name,
         avatar: user.avatar,
       },
-      isHighlightned: false,
+      isHighlighted: false,
       isAnswered: false
     };
 
